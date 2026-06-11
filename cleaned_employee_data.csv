@@ -1,0 +1,10 @@
+Employee_ID,Age,Gender,Department,Salary,Experience
+101,25.0,Male,IT,35000.0,2
+102,28.0,Female,HR,40000.0,4
+103,22.0,Male,IT,32000.0,1
+104,35.0,Female,Finance,60000.0,8
+105,29.0,Male,IT,45000.0,5
+106,29.88888888888889,Female,HR,42000.0,4
+107,45.0,Male,Finance,85000.0,15
+108,31.0,Female,IT,46777.77777777778,6
+109,27.0,Male,HR,41000.0,3
